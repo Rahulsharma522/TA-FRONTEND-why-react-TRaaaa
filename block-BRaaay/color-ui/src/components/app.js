@@ -10,6 +10,7 @@ function App() {
           <Color name={key} allColor={allColor[key]} />
         ))}
       </div>
+      
     </>
   );
 }
